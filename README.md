@@ -1,3 +1,6 @@
+> **Note:** Originally at https://github.com/Airbrush-Labs/vimeo-player
+> Migrated to the `aligned-team` organization on 2026-07-07.
+
 # vimeo_video_player
 
 <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/flutter-website-deepskyblue.svg" alt="Flutter Website"></a>
